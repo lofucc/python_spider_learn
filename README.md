@@ -1,2 +1,2 @@
 # python_spider_learn
-> pythorn记录学习爬虫
+> python初学者学习爬虫记录
